@@ -1,0 +1,18 @@
+{
+  "rules": {
+    "numberplates": {
+      ".indexOn": "number",
+      ".read": "auth != null",
+    },
+    "details": {
+      ".indexOn": "number",
+      ".read": "auth != null",
+    },
+      "users":{
+      ".indexOn": "number",
+      ".read": "auth != null",
+    }
+    
+  }
+}
+

@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "597124960600",
+    "firebase_url": "https://tagspotter-372a2-default-rtdb.firebaseio.com",
+    "project_id": "tagspotter-372a2",
+    "storage_bucket": "tagspotter-372a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597124960600:android:e0dddc3f2ef66db332d52d",
+        "android_client_info": {
+          "package_name": "com.companyname.tagspotter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4kWOjhTB506JTOQfG8EYhoERVR5XzMIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
